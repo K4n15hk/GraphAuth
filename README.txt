@@ -3,9 +3,10 @@ I have presented it in two forms:
 One is a standalone application and
 Second is as a python module that can be imported and used as a security layer for the rest of your code
 
-
 Before running my tool you must run the database_creator_cum_checker to create the database required for my program.
 
+While signing_up you have to upload 9 images and decide their sequence.
+While signing in ,you have to enter your username and the 9 images will be shown to you.You have to arrange them in the original sequence to login.
 
 The tool returns the following when it is run:
 
