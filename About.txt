@@ -1,0 +1,16 @@
+GraphAuth is an image based authentication tool.
+It can be added to any program to provide a layer of security.
+Right now it creates a database file in the current directory in which the script is present.
+To create the database,you have to run database_creator_cum_checker app.
+
+
+Features of the tool:
+
+
+1)It takes care that only valid usernames are allowed to be entered.These imply that the names should be without spaces,and the name field must not be empty.
+
+2)While signing up when you upload the image and click on the corresponding submit button,it checks if the file is an image file or not and prints an appropriate message.
+
+3)All the process happens through a very user_friendly interface.You only have to use the keyboard while typing your username.
+
+4)It uses a novel hashing algorithm for authentication.The algorithm takes into account both the sequence and the image in that sequence to create the hash.
